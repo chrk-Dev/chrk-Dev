@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charuka</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">A passionate software developer from United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrk-dev&label=Profile%20views&color=0e75b6&style=flat" alt="chrk-dev" /> </p>
 
